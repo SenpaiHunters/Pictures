@@ -29,7 +29,7 @@
 ![Deku_Tree_Timechange2](https://github.com/SenpaiHunters/Pictures/assets/103985728/7db58466-b6a7-4a7a-a65c-565d77116eb5)
 
 
-
+***
 
 
 ![Cyberpunk-edgerunners-Cyberpunk-2077-CD-Projekt-RED-trigger-anime-anime-girls-2172513-wallhere com](https://github.com/SenpaiHunters/Pictures/assets/103985728/6b8f3bde-7a4d-48b4-874f-2eda2afae965)
@@ -47,3 +47,18 @@
 ![pexels-pixabay-414144](https://github.com/SenpaiHunters/Pictures/assets/103985728/f7cd5ddd-ad87-40e2-9164-ba8ae30a0c33)
 ![pexels-james-wheeler-1519088](https://github.com/SenpaiHunters/Pictures/assets/103985728/7d6c7b40-6dc4-4c11-8e5b-09bae71d4f6e)
 ![pexels-maxime-francis-2246476](https://github.com/SenpaiHunters/Pictures/assets/103985728/12ba23ab-60c3-47ff-9009-799ccc76cb41)
+
+
+
+***
+
+# Does videos/GIFs work?
+
+
+https://github.com/SenpaiHunters/Pictures/assets/103985728/ba154012-7832-4ca2-b532-c071c1961e6e
+
+![vibeyed-20230515_033050-42858838_250721024268173_6753319352512457639_n](https://github.com/SenpaiHunters/Pictures/assets/103985728/1bb045da-63bb-4cd8-af10-33dda74b6067)
+
+
+
+
