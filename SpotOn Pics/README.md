@@ -1,12 +1,10 @@
 # Just some pictures/images I'm using for SpotOn. 
+## Do note, only pictures work `.mp4` doesn't and `GIFs` don't either.
 
-> Heart
+***
 
 
 ![heart](https://github.com/SenpaiHunters/Pictures/assets/103985728/94f3cd2f-e99b-435d-85c9-4ed897027297)
-
-> Small Heart
-
 
 ![Small Heart](https://github.com/SenpaiHunters/Pictures/assets/103985728/ea96ab3d-1092-4584-bdd5-afcb8625d121)
 
@@ -51,14 +49,3 @@
 
 
 ***
-
-# Does videos/GIFs work?
-
-
-https://github.com/SenpaiHunters/Pictures/assets/103985728/ba154012-7832-4ca2-b532-c071c1961e6e
-
-![vibeyed-20230515_033050-42858838_250721024268173_6753319352512457639_n](https://github.com/SenpaiHunters/Pictures/assets/103985728/1bb045da-63bb-4cd8-af10-33dda74b6067)
-
-
-
-
