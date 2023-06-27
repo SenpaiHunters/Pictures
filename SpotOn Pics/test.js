@@ -1,6 +1,7 @@
+
 function checkForUpdate() {
-  const repoOwner = "senpaihunters"; // Replace with your GitHub username or organization name
-  const repoName = "pictures"; // Replace with your repository name
+  const repoOwner = "SenpaiHunters"; // Replace with your GitHub username or organization name
+  const repoName = "Pictures"; // Replace with your repository name
 
   fetch(`https://api.github.com/repos/${repoOwner}/${repoName}/releases/latest`)
     .then((response) => response.json())
@@ -11,6 +12,7 @@ function checkForUpdate() {
       if (compareVersions(latestVersion, currentVersion) > 0) {
         // New update available, show a notification to the user
         chrome.notifications.create(
+          "updateNotification",
           {
             type: "basic",
             iconUrl: "assets/logo.png",
@@ -45,6 +47,12 @@ function checkForUpdate() {
 
 // Compare two versions
 function compareVersions(version1, version2) {
+  if (!version1 || !version2) {
+    // Handle invalid versions
+    console.error("Invalid version provided");
+    return 0;
+  }
+
   const v1 = version1.split(".").map(Number);
   const v2 = version2.split(".").map(Number);
 
@@ -58,6 +66,3 @@ function compareVersions(version1, version2) {
 
   return 0;
 }
-
-// Call the checkForUpdate function
-checkForUpdate();
