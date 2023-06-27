@@ -1,19 +1,18 @@
 {
   "manifest_version": 3,
   "name": "SpotOn",
-  "version": "5.0.0",
+  "version": "5.0.0.0",
   "description": "Your description here",
   "permissions": ["contextMenus", "notifications", "tabs"],
   "background": {
-    "scripts": ["test.js"],
-    "persistent": false
+    "service_worker": "background.js"
   },
   "icons": {
     "16": "assets/icon16.png",
     "48": "assets/icon48.png",
     "128": "assets/icon128.png"
   },
-  "browser_action": {
+  "action": {
     "default_icon": {
       "16": "assets/icon16.png",
       "48": "assets/icon48.png",
@@ -21,6 +20,5 @@
     },
     "default_title": "SpotOn",
     "default_popup": "popup.html"
-  },
-  "permissions": ["tabs"]
+  }
 }
