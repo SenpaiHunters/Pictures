@@ -52,3 +52,9 @@
 
 
 ![PurpIMG](https://github.com/SenpaiHunters/Pictures/assets/103985728/d3a09d6d-a11d-4666-881c-1926a1665e6f)
+
+
+***
+BD
+![download](https://github.com/SenpaiHunters/Pictures/assets/103985728/2c123152-dbbc-4d5c-9c47-610705742ea4)
+
