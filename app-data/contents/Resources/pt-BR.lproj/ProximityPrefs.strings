@@ -1,0 +1,105 @@
+/* Class = "NSButtonCell"; title = "Automatically Close on Playback"; ObjectID = "0fW-vx-HLg"; */
+"0fW-vx-HLg.title" = "Fechar Automaticamente no Play";
+
+/* Class = "NSButtonCell"; title = "Enable Proximity Engine 2.0"; ObjectID = "3VH-qT-JSM"; */
+"3VH-qT-JSM.title" = "Ativar Proximity Engine 2.0";
+
+/* Class = "NSButtonCell"; title = "Done"; ObjectID = "4HF-wa-qeb"; */
+"4HF-wa-qeb.title" = "Pronto";
+
+/* Class = "NSTextFieldCell"; title = "Enables opening/closing status window for empty AirPods Pro (second generation) charging case."; ObjectID = "4Ug-td-ZXs"; */
+"4Ug-td-ZXs.title" = "Permite abrir/fechar a janela de status com o case dos AirPods Pro (2ª geração) vazio.";
+
+/* Class = "NSTextFieldCell"; title = "The window will be shown for the nearest AirPods or Beats device when you press this keyboard shortcut."; ObjectID = "8We-6L-e2U"; */
+"8We-6L-e2U.title" = "A janela de status será exibida para os AirPods ou fones Beats mais próximos quando você pressionar este atalho.";
+
+/* Class = "NSTextFieldCell"; title = "Prevents the status window from showing up when this Mac is locked, with the screensaver on, or sleeping."; ObjectID = "164-yn-Ily"; */
+"164-yn-Ily.title" = "Impede a exibição da janela de status quando este Mac estiver bloqueado, na proteção de tela ou dormindo.";
+
+/* Class = "NSButtonCell"; title = "Don't Show if the Mac is Locked"; ObjectID = "BO0-ch-Kxv"; */
+"BO0-ch-Kxv.title" = "Não Mostrar com o Mac Bloqueado";
+
+/* Class = "NSTextFieldCell"; title = "Automatically close the status window when playback starts on that headset, on any device."; ObjectID = "D9M-m9-2B7"; */
+"D9M-m9-2B7.title" = "Fechar a janela de status automaticamente quando iniciar a reprodução em qualquer dispositivo.";
+
+/* Class = "NSButtonCell"; title = "Control with Empty Charging Case"; ObjectID = "DkZ-yi-znO"; */
+"DkZ-yi-znO.title" = "Controlar com Case Vazio";
+
+/* Class = "NSTextFieldCell"; title = "It'll still be shown if invoked via the keyboard shortcut."; ObjectID = "DTT-46-Ckc"; */
+"DTT-46-Ckc.title" = "Ela ainda poderá ser exibida através do atalho de teclado.";
+
+/* Class = "NSButtonCell"; title = "Filter Devices by Distance"; ObjectID = "Duk-Nu-C2D"; */
+"Duk-Nu-C2D.title" = "Filtrar por Distância";
+
+/* Class = "NSTextFieldCell"; title = "Window style:"; ObjectID = "E5K-NX-GR7"; Note = "Displayed before a couple of radio buttons with \"Small\" and \"Large\" options"; */
+"E5K-NX-GR7.title" = "Estilo da janela:";
+
+/* Class = "NSButtonCell"; title = "When nearby AirPods case is opened"; ObjectID = "fTb-jZ-o8f"; */
+"fTb-jZ-o8f.title" = "Quando abrir o case dos AirPods";
+
+/* Class = "NSTextFieldCell"; title = "This new engine was developed to support macOS Monterey and later, but you can enable it on your Mac and try it out."; ObjectID = "FVZ-Mr-rjr"; */
+"FVZ-Mr-rjr.title" = "Este recurso foi desenvolvido para o macOS Monterey, mas você pode testá-lo no seu Mac.";
+
+/* Class = "NSButtonCell"; title = "Restore Defaults"; ObjectID = "Ilu-OR-Etp"; */
+"Ilu-OR-Etp.title" = "Restaurar Padrão";
+
+/* Class = "NSButton"; ibExternalAccessibilityDescription = "Status Window Theme Settings"; ObjectID = "JfL-DG-auH"; */
+"JfL-DG-auH.ibExternalAccessibilityDescription" = "Configurar Aparência da Janela de Status";
+
+/* Class = "NSButton"; ibShadowedToolTip = "Status Window Theme Settings"; ObjectID = "JfL-DG-auH"; */
+"JfL-DG-auH.ibShadowedToolTip" = "Status Window Theme Settings";
+
+/* Class = "NSTextFieldCell"; title = "Window theme:"; ObjectID = "kh8-Mr-cK3"; Note = "Displayed before an option to show the status window manually with a keyboard shortcut"; */
+"kh8-Mr-cK3.title" = "Aparência:";
+
+/* Class = "NSTextFieldCell"; title = "When this is enabled, the status window will close itself automatically after a few seconds if it's not interacted with."; ObjectID = "KhL-N3-NOM"; */
+"KhL-N3-NOM.title" = "Com esta opção ligada, a janela de status fechará automaticamente após alguns segundos se não for utilizada.";
+
+/* Class = "NSTextFieldCell"; title = "Only show the status window when a device is determined to be close to your Mac. May cause delays when showing the window."; ObjectID = "kq0-EP-RpE"; */
+"kq0-EP-RpE.title" = "Mostra a janela de status somente quando é possível determinar que um dispositivo está perto do seu Mac. Pode causar atrasos.";
+
+/* Class = "NSButtonCell"; title = "Disable Translucency and Vibrancy"; ObjectID = "nKh-0y-r5N"; */
+"nKh-0y-r5N.title" = "Desativar transparência";
+
+/* Class = "NSTextFieldCell"; title = "Show automatically:"; ObjectID = "nNp-k2-jVS"; Note = "Shown before options to show the status window automatically for AirPods and other Beats headsets"; */
+"nNp-k2-jVS.title" = "Exibir automaticamente:";
+
+/* Class = "NSButtonCell"; title = "Done"; ObjectID = "p26-eb-Y0Y"; */
+"p26-eb-Y0Y.title" = "Pronto";
+
+/* Class = "NSTextFieldCell"; title = "Window position:"; ObjectID = "rDQ-LN-tMX"; Note = "Displayed before options for \"Left\", \"Center\" or \"Right\" window positions."; */
+"rDQ-LN-tMX.title" = "Posição da janela:";
+
+/* Class = "NSButtonCell"; title = "Preserve Power"; ObjectID = "TTc-5t-ZQH"; */
+"TTc-5t-ZQH.title" = "Economizar Energia";
+
+/* Class = "NSButtonCell"; title = "Close Automatically if Not Used"; ObjectID = "tYs-lw-sAh"; */
+"tYs-lw-sAh.title" = "Fechar Automaticamente Quando Não Usada";
+
+/* Class = "NSButtonCell"; title = "Don't Show if Do Not Disturb is Enabled"; ObjectID = "Vdl-ch-3EV"; */
+"Vdl-ch-3EV.title" = "Não Mostrar se Não Perturbe Estiver Ligado";
+
+/* Class = "NSViewController"; title = "Proximity"; ObjectID = "VEG-rN-DWU"; */
+"VEG-rN-DWU.title" = "Proximidade";
+
+/* Class = "NSButtonCell"; title = "Advanced…"; ObjectID = "vfb-NB-WfL"; Note = "Button that opens up the advanced settings sheet"; */
+"vfb-NB-WfL.title" = "Avançado…";
+
+/* Class = "NSButton"; ibShadowedToolTip = "The status window will show up when you open your AirPods, AirPods Pro or Powerbeats Pro case next to your Mac, when picking up the AirPods Max or removing them from the Smart Case, or when a Beats headset is powered on near this Mac."; ObjectID = "vXU-Bb-IMc"; Note = "Checkbox that causes the app to show the status window for AirPods, AirPods Pro and PowerBeats Pro when it is checked. Displayed after \"Show Automatically:\""; */
+"vXU-Bb-IMc.ibShadowedToolTip" = "O status será exibido quando você abrir o case dos AirPods, AirPods Pro ou Powerbeats Pro perto do Mac, quando levantar os AirPods Max ou removê-los da Smart Case, ou quando um fone Beats for ligado próximo ao Mac.";
+
+/* Class = "NSTextFieldCell"; title = "Also applies to picking up AirPods Max after idle or turning on Beats devices near this Mac."; ObjectID = "w40-0h-sic"; */
+"w40-0h-sic.title" = "Também se aplica a pegar AirPods Max após repouso ou ligar fones da Beats próximo ao Mac.";
+
+/* Class = "NSTextFieldCell"; title = "Enable Status Window"; ObjectID = "WBK-qk-88i"; */
+"WBK-qk-88i.title" = "Ativar Janela de Status";
+
+/* Class = "NSTextFieldCell"; title = "Show manually:"; ObjectID = "wL4-Ab-j3L"; Note = "Displayed before an option to show the status window manually with a keyboard shortcut"; */
+"wL4-Ab-j3L.title" = "Exibir manualmente:";
+
+/* Class = "NSTextFieldCell"; title = "This will make it so AirBuddy uses less resources when scanning for nearby devices. May cause delays when showing the window."; ObjectID = "yZz-h9-S9L"; */
+"yZz-h9-S9L.title" = "Faz o AirBuddy utilizar menos recursos ao buscar dispositivos próximos. Pode causar atrasos na exibição da janela de status.";
+
+/* Class = "NSButtonCell"; title = "Use Faster Animations"; ObjectID = "zdT-Ii-GhG"; */
+"zdT-Ii-GhG.title" = "Animações rápidas";
+

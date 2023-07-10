@@ -1,0 +1,21 @@
+/* Class = "NSTextFieldCell"; title = "Action Title"; ObjectID = "8as-kM-wGt"; */
+"8as-kM-wGt.title" = "Ação";
+
+/* Class = "NSTableColumn"; headerCell.title = "Keyboard Shortcut"; ObjectID = "DEp-Yy-LTm"; */
+"DEp-Yy-LTm.headerCell.title" = "Atalho de Teclado";
+
+/* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "EuQ-3c-IZu"; */
+"EuQ-3c-IZu.title" = "Text Cell";
+
+/* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "k2B-Iy-PTY"; */
+"k2B-Iy-PTY.title" = "Text Cell";
+
+/* Class = "NSTableColumn"; headerCell.title = "Action"; ObjectID = "pzh-Mh-Agp"; */
+"pzh-Mh-Agp.headerCell.title" = "Ação";
+
+/* Class = "NSButtonCell"; title = "Learn How"; ObjectID = "sK9-lh-fvL"; */
+"sK9-lh-fvL.title" = "Saiba Mais";
+
+/* Class = "NSTextFieldCell"; title = "You can also automate AirBuddy using the Shortcuts app."; ObjectID = "tbb-dS-kaW"; */
+"tbb-dS-kaW.title" = "Você também pode automatizar o AirBuddy com o app Atalhos.";
+
