@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Label</key>
+	<string>codes.rambo.AirBuddy.AirBuddyHelper</string>
+	<key>BundleProgram</key>
+	<string>Contents/Library/LoginItems/AirBuddyHelper.app/Contents/MacOS/AirBuddyHelper</string>
+	<key>ProcessType</key>
+	<string>Interactive</string>
+	<key>RunAtLoad</key>
+	<true/>
+	<key>KeepAlive</key>
+	<true/>
+	<key>MachServices</key>
+	<dict>
+		<key>codes.rambo.AirBuddy.DeviceActionsService</key>
+		<true/>
+		<key>codes.rambo.AirBuddy.DeviceListService</key>
+		<true/>
+		<key>codes.rambo.AirBuddyHelper</key>
+		<true/>
+		<key>codes.rambo.AirBuddy-setapp.AirBuddyHelper</key>
+		<true/>
+	</dict>
+</dict>
+</plist>
