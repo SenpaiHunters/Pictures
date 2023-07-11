@@ -1,0 +1,31 @@
+/* Spinning album/cover art */
+.cover-art-image.cover-art-image-loaded,
+.cover-art.shadow.actionable.cover-art--with-auto-height,
+.cover-art-image.cover-art-image-loaded,
+.cover-art-image:before,
+.cover-art-image-loaded,
+.cover-art.shadow,
+.actionable.cover-art--with-auto-height,
+.Ws8Ec3GREpT5PAUesr9b {
+  animation: spin 1s linear;
+  border-radius: 25px;
+}
+
+@-moz-keyframes spin {
+  100% {
+    -moz-transform: rotate(360deg);
+  }
+}
+
+@-webkit-keyframes spin {
+  100% {
+    -webkit-transform: rotate(360deg);
+  }
+}
+
+@keyframes spin {
+  100% {
+    -webkit-transform: rotate(360deg);
+    transform: rotate(360deg);
+  }
+}

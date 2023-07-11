@@ -1,0 +1,7 @@
+/*- SpotOn Righter Inbuilt - Untag this CSS if you wish for it -*/
+/* To disable this, simply delete the code lines */
+.ZQftYELq0aOsg6tPbVbV {
+  grid-template-areas:
+    "right-sidebar main-view left-sidebar"
+    "now-playing-bar now-playing-bar now-playing-bar" !important;
+}
