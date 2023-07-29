@@ -1,0 +1,138 @@
+@import url("https://github.com/SenpaiHunters/Pictures/raw/main/SpotOn%20Pics/fonts/JetBrainsMonoNL-Thin.ttf");
+
+:root {
+  --background: #475569; /* #b2a9a9 grayish background */
+  --primary-color: #007bff; /* Blue button color */
+  --dark-primary-color: #0056b3; /* Darker blue on hover */
+  --text-color: #000; /* #333 */
+  --watermark-color: rgba(0, 0, 0, 0.45);
+  --background-image: url("https://github.com/SenpaiHunters/Pictures/blob/main/SpotOn%20Pics/Resources/BugReporterBackgroundGradient.png?raw=true");
+}
+
+html {
+  background: var(--background);
+  font-family: "JetBrains Mono", monospace;
+  background-image: var(--background-image);
+  background-size: cover;
+  background-attachment: fixed;
+  background-repeat: no-repeat;
+  background-blend-mode: soft-light;
+}
+
+body {
+  font-family: "JetBrains Mono", monospace;
+  background-color: var(--background);
+  display: table-cell;
+  background-image: var(--background-image);
+  background-size: cover;
+  background-attachment: fixed;
+  background-repeat: no-repeat;
+  background-blend-mode: soft-light;
+}
+.container {
+  padding: 30px; /* Added padding to the container */
+  display: table-cell;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  min-height: 100vh; /* Ensures the container takes the entire screen height */
+}
+h1 {
+  font-size: 24px;
+  margin-bottom: 20px;
+  color: var(--text-color);
+  text-decoration: underline;
+}
+
+button {
+  padding: 8px 16px;
+  font-size: 16px;
+  border: none;
+  border-radius: 5px;
+  background-color: var(--primary-color);
+  color: #fff;
+  cursor: pointer;
+  margin-top: 10px;
+}
+
+button:hover {
+  background-color: var(--dark-primary-color);
+}
+
+#colorBox {
+  width: 100px;
+  height: 100px;
+  margin: 20px auto;
+  border: 2px solid #000; /* #ccc */
+  border-radius: 5px;
+}
+
+#colorInput {
+  width: 30px;
+  height: 30px;
+  border: none;
+  cursor: pointer;
+}
+
+#colorValue {
+  font-size: 14px;
+  padding-right: 10px;
+}
+
+#copyButton {
+  margin-top: 10px;
+}
+
+#copyButton:hover {
+  background-color: var(--dark-primary-color);
+}
+
+.watermark {
+  position: fixed;
+  bottom: 10px;
+  right: 10px;
+  font-size: 12px;
+  color: var(--watermark-color);
+  pointer-events: none;
+}
+
+/* Styles for the table of saved colors */
+#savedColorsTable {
+  width: 100%;
+  border-collapse: collapse;
+  margin-top: 20px;
+}
+
+#savedColorsTable th,
+#savedColorsTable td {
+  padding: 10px;
+  text-align: center;
+  border: 1px solid #ccc;
+}
+
+#savedColorsTable th {
+  background-color: #f2f2f2;
+}
+
+#savedColorsTable td {
+  width: 30px;
+  height: 30px;
+  border-radius: 50%;
+  cursor: pointer;
+}
+
+/* Styles for buttons */
+button {
+  padding: 8px 16px;
+  font-size: 16px;
+  border: none;
+  border-radius: 5px;
+  background-color: var(--primary-color);
+  color: #fff;
+  cursor: pointer;
+  margin-top: 10px;
+}
+
+button:hover {
+  background-color: var(--dark-primary-color);
+}
