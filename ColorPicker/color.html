@@ -1,0 +1,35 @@
+<!-- color.html -->
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Color Picker</title>
+    <link rel="stylesheet" href="color.css" />
+  </head>
+  <body>
+    <div class="container">
+      <h1>Color Picker</h1>
+      <div id="colorBox"></div>
+      <div class="color-picker">
+        <label for="colorInput">Pick a Color:</label>
+        <input type="color" id="colorInput" />
+      </div>
+      <div class="color-format">
+        <label for="colorFormat">Copy Color As:</label>
+        <select id="colorFormat">
+          <option value="hex">Hex</option>
+          <option value="rgb">RGB</option>
+          <option value="rgba">RGBA</option>
+          <option value="hsl">HSL</option>
+        </select>
+      </div>
+      <button id="copyButton">Copy Color</button>
+      <span id="colorValue">#FFFFFF</span>
+      <button id="viewHistoryButton">View Color History</button>
+      <!-- New list element for saved colors -->
+      <ul id="savedColorsList"></ul>
+      <!-- Watermark -->
+      <div class="watermark">Made by Kami</div>
+    </div>
+    <script src="color.js"></script>
+  </body>
+</html>

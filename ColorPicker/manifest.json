@@ -1,0 +1,35 @@
+{
+  "manifest_version": 3,
+  "name": "Color Picker App",
+  "short_name": "Color Picker",
+  "author": "SenpaiHunters",
+  "version": "1.0.0",
+  "description": "A simple color picker web app.",
+  "homepage_url": "https://github.com/senpaihunters",
+  "start_url": "/",
+  "action": {
+    "default_popup": "color.html"
+  },
+  "background": {
+    "service_worker": "background.js"
+  },
+  "permissions": [
+    "storage",
+    "localStorage",
+    "scripting",
+    "tabs",
+    "notifications"
+  ],
+  "icons": {
+    "16": "assets/logo16.png",
+    "48": "assets/logo48.png",
+    "128": "assets/logo128.png"
+  },
+  "content_scripts": [
+    {
+      "matches": ["<all_urls>"],
+      "js": ["color.js"],
+      "css": ["color.css"]
+    }
+  ]
+}
