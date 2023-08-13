@@ -113,3 +113,14 @@
 
 
 ***
+# Settings theme
+![cyberpunk4](https://github.com/SenpaiHunters/Pictures/assets/103985728/67ee8825-2ece-45ff-a816-6a7bdd3da05c)
+
+
+![cyberpunk3](https://github.com/SenpaiHunters/Pictures/assets/103985728/7438c6b6-03bf-4f25-b94c-d35e31fa3ce3)
+
+
+![cyberpunk2](https://github.com/SenpaiHunters/Pictures/assets/103985728/114c6f18-2e51-4097-bb04-b87c7f855659)
+
+
+![cyberpunk1](https://github.com/SenpaiHunters/Pictures/assets/103985728/c0d4f12a-ec5d-4cc4-b2cd-1378904d03c9)
