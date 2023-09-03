@@ -146,3 +146,13 @@
 ***
 # More themes
 ![punk](https://github.com/SenpaiHunters/Pictures/assets/103985728/ce218b52-803a-44ad-bb2c-f1922d8e17d8)
+
+
+
+
+***
+![pain](https://github.com/SenpaiHunters/Pictures/blob/main/SpotOn%20Pics/Resources/Assets/paint-roller.png?raw=true)
+
+![wheel](https://github.com/SenpaiHunters/Pictures/blob/main/SpotOn%20Pics/Resources/Assets/color-wheel.png?raw=true)
+
+![dropper](https://github.com/SenpaiHunters/Pictures/blob/main/SpotOn%20Pics/Resources/dropper.png?raw=true)
