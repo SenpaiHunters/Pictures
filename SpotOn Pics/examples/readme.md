@@ -19,7 +19,9 @@ https://github.com/SenpaiHunters/Pictures/assets/103985728/b76b2ca7-b443-45e6-87
 ***
 
 <img width="600" alt="CleanShot Arc at 23 46 07 on 2023@2x" src="https://github.com/SenpaiHunters/Pictures/assets/103985728/6fe0f820-4338-4dad-ad3d-6fc3c3c21729">
-<img width="492" alt="CleanShot Arc at 23 46 07 on 2023@2x" src="https://github.com/SenpaiHunters/Pictures/assets/103985728/1ac4b651-20c5-4a72-8d32-ba9ffd3e5ad0">
+
+<img width="502" alt="Arc at 21 35 46 on 2023@2x" src="https://github.com/SenpaiHunters/Pictures/assets/103985728/b23f8e26-10e2-4eb2-b470-e91c5f9bd82a">
+
 <img width="600" alt="CleanShot Arc at 23 46 07 on 2023@2x" src="https://github.com/SenpaiHunters/Pictures/assets/103985728/81876b4f-fc05-429b-80a3-e8120cae179e">
 
 <img width="600" alt="CleanShot Arc at 23 46 07 on 2023@2x" src="https://github.com/SenpaiHunters/Pictures/assets/103985728/c2c77f03-e1ae-47a3-a944-f194202cfa3e">
