@@ -1,0 +1,216 @@
+@import url("https://github.com/SenpaiHunters/Pictures/raw/main/SpotOn%20Pics/fonts/JetBrainsMonoNL-Thin.ttf");
+
+:root {
+  --spoton-icon-color: #e1af3b;
+}
+
+[data-theme="light"] {
+  --color-scheme: light;
+  --background: #ffffff;
+  --header-color: #f0f0f0;
+  --dialog-background: #f5f5f5;
+  --text: #333333;
+  --title: #666666;
+
+  --button-bg: #f0f0f0;
+  --button-hover: #e0e0e0;
+  --button-color: #333333;
+}
+
+[data-theme="dark"] {
+  --background: #222222;
+  --header-color: #212121;
+  --dialog-background: #181818;
+  --text: #c4c4c4;
+  --title: #dad8d8;
+
+  --button-bg: #333333;
+  --button-hover: #444444;
+  --button-color: #c4c4c4;
+}
+
+@media (prefers-color-scheme: dark) {
+  :root {
+    --color-scheme: dark;
+  }
+}
+
+@media (prefers-color-scheme: light) {
+  :root {
+    --color-scheme: light;
+  }
+}
+
+html,
+body {
+  background: var(--background);
+  font-family: "JetBrains Mono", monospace;
+}
+
+.container {
+  max-width: 500px;
+  margin: 20px auto;
+  background-color: var(--background);
+  color: var(--text);
+  padding: 20px;
+}
+
+.logo {
+  display: flex;
+  align-items: center;
+}
+
+.logo img {
+  margin-right: 8px;
+  width: 100px;
+}
+
+.header h1 {
+  font-size: 40px;
+}
+
+.subtitle.is-4 {
+  color: var(--text);
+  font-size: 1.5em;
+  text-align: center;
+  margin: 0px auto 12px;
+  margin-top: -30px;
+}
+
+/*- Theme button -*/
+#theme-toggle {
+  margin: 10px;
+}
+
+.toggle-settings-bar {
+  display: flex;
+  align-items: center;
+  border-radius: 20px;
+  background-color: var(--button-bg);
+  padding: 10px;
+}
+
+.toggle-settings-save-bar {
+  display: flex;
+  margin-top: 20px;
+  align-items: center;
+  border-radius: 20px;
+  background-color: var(--button-bg);
+  padding: 10px;
+}
+
+.toggle-settings-bar .button,
+.toggle-settings-bar .button.is-toggle {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  padding: 28px 25px;
+  background-color: var(--button-bg);
+  border: none;
+  cursor: pointer;
+  transition: background-color 0.3s ease-in-out, transform 0.3s ease-in-out;
+  font-size: 16px;
+  position: relative;
+  flex: 1;
+  color: var(--button-color);
+}
+
+.toggle-settings-bar .button.is-toggle:hover {
+  border-top-left-radius: 20px;
+  border-bottom-left-radius: 20px;
+  background-color: var(--button-hover);
+  transform: scale(1.05);
+}
+
+button#settingsButton:hover {
+  border-top-right-radius: 20px;
+  border-bottom-right-radius: 20px;
+  background-color: var(--button-hover);
+  transform: scale(1.05);
+}
+
+.toggle-settings-bar-itemIcon {
+  margin-bottom: 6px;
+}
+
+button#miniPlayer,
+button#save,
+button#miniPlayer {
+  flex-direction: column;
+  align-items: center;
+  color: var(--button-color);
+  justify-content: center;
+  padding: 28px 25px;
+  background-color: var(--button-bg);
+  border: none;
+  cursor: pointer;
+  transition: background-color 0.3s ease-in-out, transform 0.3s ease-in-out,
+    border-radius 0.3s ease-in-out;
+  font-size: 16px;
+  position: relative;
+  flex: 1;
+}
+
+button#save:hover {
+  border-top-left-radius: 20px;
+  border-bottom-left-radius: 20px;
+  background-color: var(--button-hover);
+  transform: scale(1.05);
+}
+
+button#colorPageButton:hover,
+button#reportIssueButton:hover,
+button#miniPlayer:hover {
+  border-top-right-radius: 20px;
+  border-bottom-right-radius: 20px;
+  background-color: var(--button-hover);
+  transform: scale(1.05);
+}
+
+.toggle-settings-bar .button:not(:hover) {
+  transition: background-color 0.3s ease-in-out, transform 0.3s ease-in-out,
+    border-radius 0.3s ease-in-out;
+}
+
+#status {
+  color: var(--text);
+}
+
+.control {
+  box-sizing: border-box;
+  clear: both;
+  font-size: 1rem;
+  position: relative;
+  text-align: inherit;
+  display: flex;
+  justify-content: center;
+}
+
+.section {
+  padding: 40px 30px !important;
+  height: 110px;
+}
+
+.select select:not([multiple]) {
+  background: var(--button-bg);
+  color: var(--text);
+  transform: scale(1.05);
+  border-radius: 10px;
+  border: black;
+}
+
+.select:not(.is-multiple):not(.is-loading)::after {
+  border-color: var(--spoton-icon-color);
+  transition: border-color 0.3s ease-in-out;
+}
+
+.select:not(.is-multiple):not(.is-loading):hover::after {
+  border-color: var(--spoton-icon-color);
+}
+
+select#themeSelector {
+  transform: scale(1.05);
+  border-radius: 25px;
+  transition: transform 0.3s ease-in-out, border-radius 0.3s ease-in-out;
+}
