@@ -13,6 +13,7 @@
 
 
 
+![Arc at 11 15 47 on 2023@2x](https://github.com/SenpaiHunters/Pictures/assets/103985728/607abda4-f98a-4fe4-948c-a4859980f001)
 
 
 ---
