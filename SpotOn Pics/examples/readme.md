@@ -20,6 +20,7 @@
 ![Arc at 18 08 02 on 2023](https://github.com/SenpaiHunters/Pictures/assets/103985728/b0069218-3465-4c7d-bf4c-87f02b4290fb)
 
 
+![Arc at 18 11 25 on 2023](https://github.com/SenpaiHunters/Pictures/assets/103985728/ff9e47c5-0727-478d-88e8-2bb9fe90a782)
 
 ---
 
