@@ -22,6 +22,9 @@
 
 ![Arc at 18 11 25 on 2023](https://github.com/SenpaiHunters/Pictures/assets/103985728/ff9e47c5-0727-478d-88e8-2bb9fe90a782)
 
+
+![Arc at 19 07 09 on 2023](https://github.com/SenpaiHunters/Pictures/assets/103985728/b1022028-fa40-4064-8b77-e9b4c1d980e1)
+
 ---
 
 <img width="684" alt="CleanShot Arc at 13 30 48 on 2023@2x" src="https://github.com/SenpaiHunters/Pictures/assets/103985728/2ef4d1ae-f710-4454-a771-bcfc0362ca0a">
