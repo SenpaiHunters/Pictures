@@ -1,6 +1,13 @@
 # New pics for website
 
 
+
+https://github.com/SenpaiHunters/Pictures/assets/103985728/fa7b0a35-1f59-4ea7-9abd-4692c715ff8f
+
+
+
+
+
 ![Arc at 21 47 30 on 2023@2x](https://github.com/SenpaiHunters/Pictures/assets/103985728/cf48a625-b0c8-4fc0-a380-3cb05a8349c3)
 
 
