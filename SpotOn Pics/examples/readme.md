@@ -6,6 +6,7 @@
 
 ![Arc at 21 52 01 on 2023@2x](https://github.com/SenpaiHunters/Pictures/assets/103985728/bd49d45e-3b4b-4c41-8e1b-55e7877f246a)
 
+![CleanShot 2023-10-21 at 21 24 08@2x](https://github.com/SenpaiHunters/Pictures/assets/103985728/e4edb939-8db8-47ca-b622-bca9edba71f0)
 
 
 
