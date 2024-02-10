@@ -1,7 +1,0 @@
-![earth](https://github.com/SenpaiHunters/Pictures/assets/103985728/796f44eb-00c9-475a-96a6-f27584a7d658)
-![mars](https://github.com/SenpaiHunters/Pictures/assets/103985728/3f95cfdc-ce41-4d19-8ad0-12d650449f6c)
-![moon](https://github.com/SenpaiHunters/Pictures/assets/103985728/10f40027-2f7d-441e-a978-29b721b2a6f6)
-![Neptune](https://github.com/SenpaiHunters/Pictures/assets/103985728/cc040bff-63df-4215-91b3-0982bd536f33)
-![Uranus](https://github.com/SenpaiHunters/Pictures/assets/103985728/aaecca75-2868-482a-b6a5-08435d18f4ed)
-![Saturn](https://github.com/SenpaiHunters/Pictures/assets/103985728/fc66a69c-3e90-4492-9248-94e04faa4413)
-![jupiter](https://github.com/SenpaiHunters/Pictures/assets/103985728/54c8e137-bd86-4108-bd91-ac14d6725b5d)

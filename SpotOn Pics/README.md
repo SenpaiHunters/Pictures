@@ -1,4 +1,4 @@
-# Just some pictures/images I'm using for SpotOn.
+# Just some pictures/images I'm using for SpotOn
 
 ---
 
